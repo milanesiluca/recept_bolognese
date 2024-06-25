@@ -15,7 +15,7 @@ article{
 }
 
 .marginPadding{
-    margin: 5px;
+    margin: 0px;
     padding: 5px;
 }
 
@@ -28,4 +28,9 @@ article{
 
 .generalBackG{
     background-color: antiquewhite;
+}
+
+.applyBorder{
+    border: 2px solid brown;
+    border-radius: 3%;
 }
