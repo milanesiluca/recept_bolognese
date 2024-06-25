@@ -1,7 +1,8 @@
-h3{
+.darkBg{
     background-color: brown;
-    color: antiquewhite;
-    padding: 10px;
+    color: whitesmoke;
+    padding: 15px;
+    margin: 15;
 }
 
 .centerText{
