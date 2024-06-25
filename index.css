@@ -1,0 +1,30 @@
+h3{
+    background-color: brown;
+    color: antiquewhite;
+    padding: 10px;
+}
+
+.centerText{
+    text-align: center;
+}
+
+article{
+    font: Helvetica;
+    text-align: justify;
+}
+
+.marginPadding{
+    margin: 5px;
+    padding: 5px;
+}
+
+.generalCenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+}
+
+.generalBackG{
+    background-color: antiquewhite;
+}
